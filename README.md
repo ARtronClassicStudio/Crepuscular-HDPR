@@ -1,4 +1,4 @@
-# Crepuscular-URP
+# Crepuscular-HDPR
 
 
 
@@ -18,11 +18,9 @@ Wait for compilation and this will complete the installation of the package.
 
 # Usage:
 
-Select your URP-Renderer asset and add to it "Crepuscular Renderer":
+Open Project Settings > Graphics > HDRP Gloabal Settings, then add "Crepuscular" to After Post Process:
 
-![image](https://user-images.githubusercontent.com/68843488/226686154-600a909c-58f7-49a2-9fcf-ad45b46e6497.png)
-
-You only need to add it once, but you can also add more to increase the effect.
+![image](https://github.com/ARtronClassicStudio/Crepuscular-HDPR/assets/68843488/8425afff-a2c4-4983-9e5c-3dca7be28a84)
 
 Next select your Global Volume and add "Crepuscular" and turn it on. :
 
@@ -30,6 +28,7 @@ Next select your Global Volume and add "Crepuscular" and turn it on. :
 
 Effect settings are intuitive and easy, without any complexity.
 
-![image](https://user-images.githubusercontent.com/68843488/226687699-6d019bf0-22cd-4d09-8f59-39e867d7223f.png)
+![image](https://github.com/ARtronClassicStudio/Crepuscular-HDPR/assets/68843488/d8387cba-d77b-423d-bc14-2b85fe9917d2)
+
 
 There is also support for HDRP and Built-in but they will come later.
