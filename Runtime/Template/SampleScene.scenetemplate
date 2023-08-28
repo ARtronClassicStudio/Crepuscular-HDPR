@@ -15,7 +15,7 @@ MonoBehaviour:
   templateScene: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}
   templateName: Basic Crepuscular(HDRP)
   description: 
-  preview: {fileID: 0}
+  preview: {fileID: 7644292190405931133}
   dependencies:
   - dependency: {fileID: 2800000, guid: f20112bdeec2e8d4d9f80e8390e37263, type: 3}
     instantiationMode: 1
