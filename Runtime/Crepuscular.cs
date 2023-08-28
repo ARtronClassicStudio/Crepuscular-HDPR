@@ -2,7 +2,6 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.HighDefinition;
 using System;
-using System.Collections.Generic;
 
 [Serializable, VolumeComponentMenu("Crepuscular")]
 public sealed class Crepuscular : CustomPostProcessVolumeComponent, IPostProcessComponent
