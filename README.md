@@ -13,7 +13,7 @@
 Copy and paste in Package Manager:
 
 ```C#
-https://github.com/ARtronClassicStudio/Crepuscular-URP.git
+https://github.com/ARtronClassicStudio/Crepuscular-HDPR.git
 ```
 ![image](https://user-images.githubusercontent.com/68843488/226684938-018e2bd4-7abd-478c-b29f-c84c7bae7bb2.png)
 
